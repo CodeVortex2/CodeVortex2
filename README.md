@@ -46,10 +46,6 @@
 
 
 ## 🔥 GitHub Activity
-<div align="center">
-  <!-- Pac-Man Contribution Graph généré par ton workflow -->
-  <img src="https://raw.githubusercontent.com/CodeVortex2/CodeVortex2/output/pacman-contribution-graph.svg" alt="Pac-Man contributions" />
-</div>
 
 <div align="center">
   <!-- Streak Stats en mode daily, 100% réel -->
