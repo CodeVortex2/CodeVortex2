@@ -49,5 +49,6 @@
 
 <div align="center">
   <!-- Streak Stats en mode daily, 100% réel -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=CodeVortex2&theme=dark)](https://git.io/streak-stats)
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CodeVortex2&theme=dark" alt="GitHub Streak" /></a>
 </div>
