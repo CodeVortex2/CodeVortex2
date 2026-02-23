@@ -46,14 +46,6 @@
 
 
 
-## 🚀 Featured Projects
-- **Portfolio Website** – React + TailwindCSS – [Repo](https://github.com/CodeVortex2/portfolio)  
-- **API REST Django** – JWT Authentication – [Repo](https://github.com/CodeVortex2/django-api)  
-- **Blog Laravel** – CRUD, Authentication – [Repo](https://github.com/CodeVortex2/laravel-blog)  
-
-
-
-
 ## 🔥 GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CodeVortex2&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
