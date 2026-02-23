@@ -2,8 +2,6 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="welcome gif" />
 </div>
 
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/geor-gale/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn"/>
@@ -11,7 +9,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CodeVortex2.CodeVortex2" alt="visitor badge" />
 </div>
 
----
+
 
 # 👋 Hi, I’m GALE Kodzo George
 ### 🌍 From Lomé, Togo 🇹🇬  
@@ -21,7 +19,7 @@
 📚 Learning and improving my expertise to grow in my career  
 ⚡ Free time: exploring technology and personal development  
 
----
+
 
 ## 🛠 Languages & Tools
 <div align="left">
@@ -46,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle" />
 </div>
 
----
+
 
 ## 🚀 Featured Projects
 - **Portfolio Website** – React + TailwindCSS – [Repo](https://github.com/CodeVortex2/portfolio)  
@@ -54,7 +52,7 @@
 - **Blog Laravel** – CRUD, Authentication – [Repo](https://github.com/CodeVortex2/laravel-blog)  
 
 
----
+
 
 ## 🔥 GitHub Stats
 <div align="center">
