@@ -48,7 +48,13 @@
 ## 🔥 GitHub Activity
 
 <div align="center">
-  <!-- Streak Stats en mode daily, 100% réel -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=CodeVortex2&theme=dark)](https://git.io/streak-stats)
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CodeVortex2&theme=dark" alt="GitHub Streak" /></a>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeVortex2&show_icons=true&theme=catppuccin_mocha&hide_border=true&hide=prs,contribs" />
+ 
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=CodeVortex2&theme=catppuccin-mocha&hide_border=true&border_radius=6)
+
 </div>
