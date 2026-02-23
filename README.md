@@ -45,19 +45,13 @@
 </div>
 
 
-
-## 🔥 GitHub Stats
+## 🔥 GitHub Activity
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CodeVortex2&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeVortex2&show_icons=true&theme=dark&count_private=true" alt="GitHub stats" />
-</div>
-
----
-
-## 🎮 Pac-Man Contribution Graph
-<div align="center">
+  <!-- Pac-Man Contribution Graph généré par ton workflow -->
   <img src="https://raw.githubusercontent.com/CodeVortex2/CodeVortex2/output/pacman-contribution-graph.svg" alt="Pac-Man contributions" />
+</div>
+
+<div align="center">
+  <!-- Streak Stats en mode daily, 100% réel -->
+  <img src="https://streak-stats.demolab.com?user=CodeVortex2&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
