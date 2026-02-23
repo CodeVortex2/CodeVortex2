@@ -1,29 +1,29 @@
-name: Generate pacman animation
+name: Generate Pac-Man Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # toutes les 12h (plus propre que * */12)
+    - cron: "0 */12 * * *"   # Toutes les 12h
   workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  generate:
+  generate_pacman:
+    name: Generate Pac-Man Graph
     permissions:
       contents: write
-
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     env:
-      NODE_OPTIONS: --max-old-space-size=8192   # 🔥 FIX mémoire
+      NODE_OPTIONS: --max-old-space-size=8192
 
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Setup Node (important pour éviter certains crashes)
+      - name: Setup Node
         uses: actions/setup-node@v3
         with:
           node-version: 18
@@ -34,10 +34,10 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push pacman-contribution-graph.svg to the output branch
+      - name: Push pacman-contribution-graph.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .   # le SVG est généré à la racine
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
